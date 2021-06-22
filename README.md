@@ -16,7 +16,11 @@ Site Screenshot:
 ![Site Screenshot](/01-html-css-git-homework-demo.png)
 
 Installation: N/A
+
 Usage: N/A
-Credits:
+
+Credits: Trilogy Education Services for original code
+
 Built with: Gitbash, Github, VS Code
+
 Acknowlegements: Coffee
