@@ -17,7 +17,7 @@ Site Screenshot:
 
 Installation: N/A
 
-Usage: N/A
+Usage: Application can be viewed in a desktop browser. Not yet optimized for smaller display on smartphones or tablets.
 
 Credits: Trilogy Education Services for original code
 
