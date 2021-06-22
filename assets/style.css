@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Semantic: Div replaced with Nav*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,6 +33,7 @@ body {
     font-size: 20px;
 }
 
+/* Semantics: Replaced div tag with nav*/
 .header nav ul {
     list-style-type: none;
 }
