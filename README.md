@@ -23,4 +23,3 @@ Credits: Trilogy Education Services for original code
 
 Built with: Gitbash, Github, VS Code
 
-Acknowlegements: Coffee. Lots. 
